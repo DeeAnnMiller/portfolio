@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cs220-gwen-le-portfolio/static/css/main.5dffcfc0.css",
+    "main.js": "/cs220-gwen-le-portfolio/static/js/main.3c0f7bb2.js",
+    "static/js/453.f1b75a87.chunk.js": "/cs220-gwen-le-portfolio/static/js/453.f1b75a87.chunk.js",
+    "static/media/Slider.png": "/cs220-gwen-le-portfolio/static/media/Slider.d97e6ba56d40583c7184.png",
+    "static/media/get-in-touch-bg.png": "/cs220-gwen-le-portfolio/static/media/get-in-touch-bg.a0664236942b5254a187.png",
+    "index.html": "/cs220-gwen-le-portfolio/index.html",
+    "main.5dffcfc0.css.map": "/cs220-gwen-le-portfolio/static/css/main.5dffcfc0.css.map",
+    "main.3c0f7bb2.js.map": "/cs220-gwen-le-portfolio/static/js/main.3c0f7bb2.js.map",
+    "453.f1b75a87.chunk.js.map": "/cs220-gwen-le-portfolio/static/js/453.f1b75a87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dffcfc0.css",
+    "static/js/main.3c0f7bb2.js"
+  ]
+}
