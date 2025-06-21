@@ -45,22 +45,21 @@ const Projects = () => {
             <div className="about-right">
               <h2>Who I Am</h2>
               <p>
-                I’m Rubens, the developer behind Sunscript. My journey into tech
-                started through acoustical engineering, where I learned the power
-                of precision and analysis. Later, I transitioned into full-stack
-                development, blending creativity and problem-solving into digital
-                products.
+                I’m Diane Miller, one of the developers behind Sunscript. 
+                Computers have always facinated me especially with how it functions 
+                and makes problem solving easy and simple. 
+                I chose the field of software engineering 
+                to combine my love for technology with my passion for creativity.
               </p>
               <p>
-                I bring two years of experience building responsive,
-                accessible, and modern interfaces for the web, alongside back-end
-                logic and API integration. I'm passionate about both front-end
-                aesthetics and robust software architecture.
+                I'm a fresher who brings knowledge and skills of various computer languages,
+                such as Java, JavaScript, HTML, React, and Python.
+                With these developed skills, 
+                I look forward to help solving real world problems using technology.
               </p>
               <p>
-                Whether it's developing a custom CMS, designing data pipelines,
-                or building engaging user experiences, I deliver clean code and
-                thoughtful design.
+                Whether it's working backend or frontend,
+                I can create seamless, user-friendly experiences that make a difference.
               </p>
             </div>
           </div>
@@ -70,25 +69,25 @@ const Projects = () => {
         <section className="mission-section">
           <h2>My Mission</h2>
           <p>
-            To build inclusive, meaningful software that solves real-world
-            problems and helps people live better, more connected lives.
+            To create software that bridges creativity and technology,
+            making everyday challenges simpler and more enjoyable for everyone.
           </p>
           <div className="values-list">
             <div className="value-item">
               <h3>Creativity</h3>
               <p>
-                Turning ideas into sleek, interactive interfaces and bold
-                designs.
+                Bringing fresh ideas to life with intuitive, 
+                elegant designs and smooth user experiences.
               </p>
             </div>
             <div className="value-item">
               <h3>Precision</h3>
-              <p>Code that’s clean, scalable, and engineered for long-term use.</p>
+              <p>Writing clean, efficient code that’s built to last and easy to maintain.</p>
             </div>
             <div className="value-item">
               <h3>Growth</h3>
               <p>
-                Constantly learning, exploring new tech, and evolving my craft.
+                Embracing continuous learning to keep sharpening my skills and exploring new technologies.
               </p>
             </div>
           </div>
@@ -101,26 +100,24 @@ const Projects = () => {
             <div className="skills-icons">
               <div className="skills-row">
                 <img src={`${PUBLIC}/images/figma.svg`} alt="Figma" />
-                <img src={`${PUBLIC}/images/ps.svg`} alt="Photoshop" />
                 <img src={`${PUBLIC}/images/python.svg`} alt="Python" />
                 <img src={`${PUBLIC}/images/html.svg`} alt="HTML" />
                 <img src={`${PUBLIC}/images/c_plus.png`} alt="C++" />
               </div>
               <div className="skills-row-2">
                 <img src={`${PUBLIC}/images/jsx.svg`} alt="JSX" />
-                <img src={`${PUBLIC}/images/php.svg`} alt="PHP" />
+                <img src={`${PUBLIC}/images/ps.svg`} alt="Photoshop" />
                 <img src={`${PUBLIC}/images/css.svg`} alt="CSS" />
                 <img src={`${PUBLIC}/images/react.svg`} alt="React" />
-                <img src={`${PUBLIC}/images/vue.svg`} alt="Vue" />
               </div>
             </div>
           </div>
           <div className="skills-right">
-            <h3>Engineering Meets Design</h3>
+            <h3>Engineering Meets Creativity</h3>
             <p>
-              With a unique background in acoustics and software, I approach
-              projects holistically—balancing usability, performance, and design
-              fidelity.
+              I combine powerful tools and languages to build solutions that are both
+              functional and beautiful. Whether designing user interfaces or solving
+              complex backend problems, I enjoy crafting technology that makes a real impact.
             </p>
           </div>
         </section>

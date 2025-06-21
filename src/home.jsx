@@ -88,10 +88,9 @@ const Home = () => {
               </div>
               <div className="skills-row-2">
                 <img src={`${PUBLIC}/images/jsx.svg`} alt="JSX" />
-                <img src={`${PUBLIC}/images/php.svg`} alt="PHP" />
+                <img src={`${PUBLIC}/images/ps.svg`} alt="Photoshop" />
                 <img src={`${PUBLIC}/images/css.svg`} alt="CSS" />
                 <img src={`${PUBLIC}/images/react.svg`} alt="React" />
-                <img src={`${PUBLIC}/images/vue.svg`} alt="Vue" />
               </div>
             </div>
           </div>
@@ -179,8 +178,8 @@ const Home = () => {
             </div>
             <div className="about-right">
               <p>
-                Software Engineer with 2 years of experience in full-stack web development and embedded software.
-                Graduated in Acoustical Engineering, with a solid foundation in logic and problem-solving. In addition
+                I'm a fresher who brings knowledge and skills of various computer languages,
+                such as Java, JavaScript, HTML, React, and Python. In addition
                 to professional courses, I am currently pursuing a degree in Computer Science. I love learning new
                 things and am passionate about technology and creative solutions to solve real-world problems.
               </p>
