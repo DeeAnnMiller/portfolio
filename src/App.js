@@ -9,7 +9,6 @@ import Uses from './uses';
 
 function App() {
   return (
-    <Router basename="/portfolio">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
@@ -18,7 +17,6 @@ function App() {
         <Route path="/uses" element={<Uses />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-    </Router>
   );
 }
 

@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <div className="tab-black"></div>
-      <h1 className="logo">SUNSCRIPT</h1>
+      <h1 className="logo">PORTFOLIO</h1>
       <nav className="navbar" aria-label="Main navigation">
         <ul className="nav-links center-links">
           <li><Link to="/">Home</Link></li>

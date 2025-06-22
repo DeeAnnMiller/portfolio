@@ -24,14 +24,17 @@ const Home = () => {
               Hello!
             </motion.h1>
             <motion.h3 initial={{ x: -50, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ delay: 0.5 }}>
-              I’m <span className="highlight">Sunscript</span>
+              I’m <span className="highlight">Diane Cynthia Miller</span>
             </motion.h3>
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.7 }}>
-              I’m a software engineer with a passion for turning creative ideas into smart,
+              I’m a software engineer with a passion for <br />
+              turning creative ideas into smart,
               <br />
-              user-friendly digital experiences. I blend technical skill with an eye for design,
+              user-friendly digital experiences. <br />
+              I blend technical skill with an eye for design,
               <br />
-              building websites and apps and systems that don’t just function—they delight.
+              building websites and apps and systems <br/>
+              that don’t just function, they delight.
             </motion.p>
             <motion.div
               className="hero-buttons"
@@ -171,10 +174,11 @@ const Home = () => {
 
         {/* About Section */}
         <section id="about" className="about-section">
-          <div className="about-inner">
+          <div className="about-img-wrapperr">
             <div className="about-left">
               <h2>About Me</h2>
-              <img src={`${PUBLIC}/images/sun-shape-2.png`} alt="Sun Graphic" className="about-img" />
+              <img src={`${PUBLIC}/images/sun-shape-2.png`} alt="Sun Graphic" className="sun-img" />
+              <img src={`${PUBLIC}/images/about-me.jpg`} alt="My Profile" className="profile-img" />
             </div>
             <div className="about-right">
               <p>
